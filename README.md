@@ -1,4 +1,4 @@
-# Novosadjani
+# Space Invaders
 
 SpaceInvaders je arkadna igra iz 1978. godine. Kreator je Tomoriho Nishikado.
 
